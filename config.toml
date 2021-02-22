@@ -1,4 +1,4 @@
-baseurl = "http://daniel-zamo.github.io/"
+baseurl = "https://daniel-zamo.github.io/"
 title = "Mi blog estático"
 theme = "ghostwriter"
 
