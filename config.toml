@@ -1,0 +1,18 @@
+baseurl = "http://daniel-zamo.github.io/"
+title = "Mi blog estático"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Artículos"
+    description = "Articulos publicados"
+    github = "https://github.com/danielzamo"
+    twitter = "https://twitter.com/daniel_zamo"
+    email = "daniel.oscar.zamo@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+    
+[Permalinks]
+    post = "/:filename/"
