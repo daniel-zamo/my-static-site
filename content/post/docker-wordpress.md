@@ -9,7 +9,7 @@ date = 2021-02-22T02:13:50Z
 author = "Daniel Oscar Zamo"
 +++
 
-Contenedor Docker con dos servicios: Wodpress y Mysql. Para pruebas y desarrollo.
+Contenedor Docker con dos servicios: Wodpress y Mysql. Para pruebas y _desarrollo_.
 
 ## Referencias
 

@@ -1,4 +1,4 @@
-baseurl = "https://daniel-zamo.github.io/"
+baseurl = "https://danielzamo.github.io/"
 title = "Mi blog estático"
 theme = "ghostwriter"
 
@@ -12,7 +12,7 @@ theme = "ghostwriter"
     email = "daniel.oscar.zamo@gmail.com"
     opengraph = true
     shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2021"
+    dateFormat = "Wen, Mar 3, 2021"
     
 [Permalinks]
     post = "/:filename/"
